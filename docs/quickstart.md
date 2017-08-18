@@ -5,7 +5,7 @@
 - [Troubleshooting](/fetch-mock/troubleshooting)
 - [Examples](/fetch-mock/examples)
 
-# Quickstart
+# 快速开始
 
 ## Setting up your mock
 

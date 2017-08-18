@@ -1,12 +1,12 @@
-- [Introduction](/fetch-mock)
-- [Quickstart](/fetch-mock/quickstart)
+- [Introduction](index)
+- [Quickstart](quickstart)
 - Installation and usage 
-- [API documentation](/fetch-mock/api)
-- [Troubleshooting](/fetch-mock/troubleshooting)
-- [Examples](/fetch-mock/examples)
+- [API documentation](api)
+- [Troubleshooting](troubleshooting)
+- [Examples](examples)
 
 # Installation
-Install fetch-mock using `npm install --save-dev fetch-mock`
+安装 fetch-mock 使用命令 `npm install --save-dev fetch-mock`
 
 In most environments use `const fetchMock = require('fetch-mock')` to use it in your code. Some exceptions include:
 

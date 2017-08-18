@@ -12,7 +12,7 @@
 
 ## Mocking calls to `fetch`
 
-#### `mock(matcher, response, options)` or `mock(options)`
+#### `mock(matcher匹配器, response, options)` or `mock(options)`
 Replaces `fetch()` with a stub which records its calls, grouped by route, and optionally returns a mocked `Response` object or passes the call through to `fetch()`. Calls to `.mock()` can be chained.
 
 * `matcher`: Condition for selecting which requests to mock Accepts any of the following
